@@ -66,9 +66,9 @@
 <br/>
 
 <p align="center">
-<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RaviduSenavirathna&theme=tokyonight" alt="Stats"/>
-<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RaviduSenavirathna&theme=tokyonight" alt="Top Languages"/>
-<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RaviduSenavirathna&theme=tokyonight" alt="Most Commit Language"/>
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RaviduSenavirathna&theme=tokyonight" alt="Stats"/>
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RaviduSenavirathna&theme=tokyonight" alt="Top Languages"/>
+<!-- <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RaviduSenavirathna&theme=tokyonight" alt="Most Commit Language"/> -->
 <!-- <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RaviduSenavirathna&theme=tokyonight&utcOffset=5" alt="Productive Time"/> -->
 <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=RaviduSenavirathna&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
