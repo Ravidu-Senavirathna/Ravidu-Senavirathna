@@ -29,39 +29,44 @@
 
 ###
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=anaconda" height="40" alt="anaconda logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img src="https://skillicons.dev/icons?i=anaconda" height="50" alt="anaconda logo" />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo" />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=bash" height="50" alt="bash logo" />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo" />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=obsidian" height="50" alt="obsidian logo" />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo" />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="c++ logo" />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=cs" height="50" alt="c# logo" />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo" />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo" />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="sqlite logo" />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo" />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=python" height="50" alt="python logo" />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="50" alt="tensorflow logo" />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="50" alt="pytorch logo" />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=sklearn" height="50" alt="scikit-learn logo" />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=opencv" height="50" alt="opencv logo" />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo" />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo" />
+  <img width="4" />
 </div>
 
 ###
