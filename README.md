@@ -45,6 +45,10 @@
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=cs" height="50" alt="c# logo" />
   <img width="4" />
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo" />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo" />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo" />
@@ -62,10 +66,6 @@
   <img src="https://skillicons.dev/icons?i=sklearn" height="50" alt="scikit-learn logo" />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=opencv" height="50" alt="opencv logo" />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo" />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo" />
   <img width="4" />
 </div>
 
